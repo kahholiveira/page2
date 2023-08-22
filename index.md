@@ -1,2 +1,2 @@
-# page2
-page 2
+title: page2
+theme: minimalist
